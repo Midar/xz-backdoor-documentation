@@ -1,4 +1,4 @@
-This is my personal attempt to reverse engineer the XZ backdoor code. It is
+This is @hamarituc personal attempt to reverse engineer the XZ backdoor code. It is
 merely a personal exercise and not intended provide an extensivley research.
 I made it public in case someone finds it helpful.
 
